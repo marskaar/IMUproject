@@ -1,4 +1,11 @@
+/*
+Created by Martin Skårerverket
+Original creation date: March 18, 2020
 
+Development code for implementation of LSM9DS1 chip.
+Bachelors thesis spring 2020, NTNU
+
+*/
 
 #define LSM9DS1_H_
 #define LSM9DS1_I2C_BUFFER 0x80

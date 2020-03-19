@@ -1,4 +1,11 @@
+/*
+Created by Martin Skårerverket
+Original creation date: March 18, 2020
 
+Development code for implementation of LSM9DS1 chip.
+Bachelors thesis spring 2020, NTNU
+
+*/
 
 #include <stdlib.h>
 #include <unistd.h>
